@@ -95,6 +95,8 @@ Some projects developed by Vaylo may be released publicly to support developers 
 ### 💡 Building the next generation of digital tools.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/vaylocorp?label=Follow%20Vaylo&style=social)](https://github.com/vaylocorp)
+<br>
+[![Follow on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaylo.xyz/)
 
 <img src="https://img.shields.io/badge/VAYLO-%233ECF8E?style=for-the-badge" height="25px">
 

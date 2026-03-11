@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhsNXVveHczdmd4YW5ncnVxbm5pZnZueDdlcndzMnN2YXZnMW05ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BOktOSfm4xjHi/giphy.gif" height="250px" width="100%" alt="Vaylo Digital Grid Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ6bmd3dTNua3FlY3Q5enpmampkbTNlZHpzdmwxcGIwbXB6OGEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tAPkUnA2GQNVK/giphy.gif" height="250px" width="100%" alt="Vaylo Digital Grid Animation">
 </p>
 
 # Ｖ   Λ   Ｙ   Ｌ   Θ
